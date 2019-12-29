@@ -1,0 +1,15 @@
+{
+  "name": "google2",
+  "version": "1.0.0",
+  "description": "This is done for GCI-2019 task",
+  "repository": "https://github.com/NASA12345/google2.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
